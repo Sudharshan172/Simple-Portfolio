@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with **React.js** and **Tailwind CS
 
 ## 🚀 Live Demo
 
-👉 [View Live Site](https://portfolio-ydke.onrender.com/)
+👉 [View Portfolio](https://portfolio-ydke.onrender.com/)
 
 ---
 ## ✨ Features
@@ -19,20 +19,13 @@ A modern, responsive portfolio website built with **React.js** and **Tailwind CS
 - 📬 Integrated **EmailJS** for sending form submissions directly to my email
 - 🔐 Environment variables used to protect sensitive keys (`.env`)
 
----
-
 ## 🛠️ Tech Stack
-
-| Technology | Usage |
-|------------|-------|
-| [React](https://reactjs.org/) | Frontend library |
-| [Vite](https://vitejs.dev/) | Build tool for development |
-| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework |
-| [EmailJS](https://www.emailjs.com/) | Contact form email integration |
-| [Lucide Icons](https://lucide.dev/) | Icon library |
-| [GitHub Pages / Vercel / Netlify](https://vercel.com/) | Deployment |
-
----
+- **React** – JavaScript library for building user interface
+- **Tailwind CSS** – Utility-first CSS framework for styling  
+- **Vite** – Lightning-fast frontend tooling for development and build  
+- **EmailJS** – Send emails directly from frontend without backend  
+- **JavaScript (ES6+)** – Latest features of JavaScript  
+- **HTML5 & CSS3** – Markup and base styling languages  
 
 ## 📁 Folder Structure
 
