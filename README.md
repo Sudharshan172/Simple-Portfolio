@@ -36,14 +36,14 @@ portfolio/
 ├── src/
 │   ├── assets/             # Static files (images, icons, etc.)
 │   ├── components/
+│   │   ├── sections/
+│   │       ├── Home.jsx
+│   │       ├── About.jsx
+│   │       ├── Projects.jsx
+│   │       ├── Contact.jsx
 │   │   ├── Navbar.jsx
 │   │   ├── MobileMenu.jsx
 │   │   └── LoadingScreen.jsx
-│   ├── sections/
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── Projects.jsx
-│   │   └── Contact.jsx
 │   ├── App.jsx
 │   ├── App.css
 │   ├── index.css
