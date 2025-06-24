@@ -57,3 +57,8 @@ portfolio/
 ├── README.md
 └── eslint.config.js
 
+## **Deployment & Setup**
+### **Local Development**
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Sudharshan172/Simple-Portfolio
