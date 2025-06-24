@@ -29,7 +29,7 @@ A modern, responsive portfolio website built with **React.js** and **Tailwind CS
 
 ## 📁 Folder Structure
 
-```bash
+\`\`\`bash
 portfolio/
 ├── public/
 │   ├── resume.pdf
@@ -56,9 +56,12 @@ portfolio/
 ├── vite.config.js
 ├── README.md
 └── eslint.config.js
+\`\`\`
+---
 
 ## **Deployment & Setup**
 ### **Local Development**
 1. **Clone the Repository**
-   ```bash
+   \`\`\`bash
    git clone https://github.com/Sudharshan172/Simple-Portfolio
+   \`\`\`
